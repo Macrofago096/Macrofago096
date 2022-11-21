@@ -9,7 +9,7 @@
 <div size='20px'> 
 Hola! Mi nombre es Brenda Alaniz :smile: 
 Apasionada por la programación, me interioricé en el mundo IT e ingresé al bootcamp de Henry 🚀
-<br>
+
 🙋Me considero una persona proactiva, con flexibilidad para adaptarme al cambio e iniciativa. Me gusta trabajar en equipo y aprender de mis compañeros.
 
 💻Tengo conocimientos en HTML, CSS, Bootstrap, JavaScript, React, Redux, NodeJS, Express, PostgreSQL, Sequelize, GitFlow, Web Deployments || 🛠 Metodologías ágiles SCRUM.
@@ -30,19 +30,16 @@ Actualmente, me encuentro trabajando en mi portfolio y terminando otros proyecto
 <h2> 📌 Mis proyectos </h2>
 
 ### Athenas Club App
-<div>
-<p align='center'> 
-Proyecto grupal integrador para poner en practica todas las habilidades adquiridas en el bootcamp Henry. Creación de una Single Page Application usando metodologías ágiles de desarrollo de software (SCRUM) con sprints de una semana.
-<p/>
-</div>
 
-## La aplicación puede:
-# Hacer Log In, Log Out y Sign Up por medio de Auth0 y, a su vez, por medio de Google.
-# Mostrar una tienda en línea de productos deportivos.
-# En la tienda se pueden añadir productos al carrito y a favoritos.
-# Los productos se pueden comprar por medio de Mercado Pago.
-# En el panel de perfil de la aplicación el usuario común puede ver sus datos personales y editarlos, así como el historial de las compras realizadas, junto al detalle de cada producto y la disponibilidad.
-# El usuario administrador puede ver todos los usuarios registrados, editar sus datos o eliminarlos de la base de datos. Puede hacer lo mismo con los productos de la tienda.
+Proyecto grupal integrador para poner en practica todas las habilidades adquiridas en el bootcamp Henry. Creación de una Single Page Application usando metodologías ágiles de desarrollo de software (SCRUM) con sprints de una semana.
+
+La aplicación puede:
+- Hacer Log In, Log Out y Sign Up por medio de Auth0 y, a su vez, por medio de Google.
+- Mostrar una tienda en línea de productos deportivos.
+- En la tienda se pueden añadir productos al carrito y a favoritos.
+- Los productos se pueden comprar por medio de Mercado Pago.
+- En el panel de perfil de la aplicación el usuario común puede ver sus datos personales y editarlos, así como el historial de las compras realizadas, junto al detalle de cada producto y la disponibilidad.
+- El usuario administrador puede ver todos los usuarios registrados, editar sus datos o eliminarlos de la base de datos. Puede hacer lo mismo con los productos de la tienda.
 
 <a href="https://github.com/MATarg81/proyecto-final">
       <img align="center" src="https://user-images.githubusercontent.com/76783198/183681387-b4432771-313b-4527-a157-75786233b3b0.svg" width="25" height="25"/>
@@ -51,14 +48,10 @@ Proyecto grupal integrador para poner en practica todas las habilidades adquirid
 
 
 ### Henry Food
-<div>
-<p align='center'>
 Creación de Single Page Applications con React en front end, Express en back y PostgreSQL + Sequelize en base de datos.
-<p/>
-<div/>
 
-# Diseñar y desarrollar una App de recetas que incluía: búsquedas por nombre e ID, filtrados, ordenamientos y creación de nuevas recetas. Llamada a API REST y base de datos propia, homogeneización de datos y presentación.
-# Desarrollar la app usando para el Front React, Redux, CSS puro y Back desarrollado en Node.js con Express. Base de datos en PostgreSQL y Sequelize.
+- Diseñar y desarrollar una App de recetas que incluía: búsquedas por nombre e ID, filtrados, ordenamientos y creación de nuevas recetas. Llamada a API REST y base de datos propia, homogeneización de datos y presentación.
+- Desarrollar la app usando para el Front React, Redux, CSS puro y Back desarrollado en Node.js con Express. Base de datos en PostgreSQL y Sequelize.
 
 <a href="https://github.com/Macrofago096/Proyecto-Individual-Food">
       <img align="center" src="https://user-images.githubusercontent.com/76783198/183681387-b4432771-313b-4527-a157-75786233b3b0.svg" width="25" height="25"/>
