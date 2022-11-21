@@ -69,7 +69,8 @@ Creación de Single Page Applications con React en front end, Express en back y 
     <br>
     <a href="https://www.linkedin.com/in/brenda-c-alaniz-/">
       <img align="center" src="https://user-images.githubusercontent.com/76783198/182481396-19c89e94-f3ba-4e33-9df4-f5b7a094cf8f.svg"/>
-    <a align="center" >
+    <br>
+    <a>
     📞+549 1131250992
     </a>
 </p>
