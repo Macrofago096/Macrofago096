@@ -74,5 +74,5 @@ Creación de Single Page Applications con React en front end, Express en back y 
     📞+549 1131250992
     </a>
 </p>
-
+<br><br>
 <footer align='center'>Thanks for visiting!</footer>
