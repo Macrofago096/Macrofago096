@@ -11,7 +11,7 @@
 - 💻 Actualmente estoy trabajando en mi portafolio y terminando otros proyectos.
 - Mi objetivo principal es desarrollarme profesionalmente y cumplir con mis objetivos, de modo que busco oportunidades que me permitan hacerlo. 
 - 📚 Aprendiendo Python.
-- ⚡ Dato curioso: entreno Jiu Jitsu y me gusta mucho leer novelas.
+- ⚡ Dato curioso: entreno Jiu Jitsu y me gusta mucho leer novelas policiales.
 
 ---
 
