@@ -6,14 +6,14 @@
 <p align='center'>
 </p>
 
-<div size='20px'> 
-Hola! Mi nombre es Brenda Alaniz :smile: 
+
+## Hola! Mi nombre es Brenda Alaniz :smile: 
 - 💻 Actualmente estoy trabajando en mi portafolio y terminando otros proyectos.
 - Mi objetivo principal es desarrollarme profesionalmente y cumplir con mis objetivos, de modo que busco oportunidades que me permitan hacerlo. 
 - 📚 Aprendiendo Python.
 - ⚡ Dato curioso: entreno Jiu Jitsu y me gusta mucho leer novelas.
 
-</div>
+---
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <div justify-content = "space-arround">
