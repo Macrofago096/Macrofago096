@@ -2,21 +2,16 @@
 <img width="100%" height = "250px" src="https://www.thegreatpearler.com/pluriverse/wp-content/uploads/sites/5/2021/10/hello-world.gif" alt="cover" />
 </div>
 
-<h1>Web Full Stack Developer</h1>
+<h1>Web Full Stack Developer Jr</h1>
 <p align='center'>
 </p>
 
 <div size='20px'> 
 Hola! Mi nombre es Brenda Alaniz :smile: 
-Apasionada por la programación, me interioricé en el mundo IT e ingresé al bootcamp de Henry 🚀
-
-🙋Me considero una persona proactiva, con flexibilidad para adaptarme al cambio e iniciativa. Me gusta trabajar en equipo y aprender de mis compañeros.
-
-💻Tengo conocimientos en HTML, CSS, Bootstrap, JavaScript, React, Redux, NodeJS, Express, PostgreSQL, Sequelize, GitFlow, Web Deployments || 🛠 Metodologías ágiles SCRUM.
-
-📚Aprendiendo Python.
-
-Actualmente, me encuentro trabajando en mi portfolio y terminando otros proyectos. Mi objetivo principal es desarrollarme profesionalmente y cumplir con mis objetivos, de modo que busco oportunidades que me permitan hacerlo. 
+💻 Actualmente estoy trabajando en mi portafolio y terminando otros proyectos.
+Mi objetivo principal es desarrollarme profesionalmente y cumplir con mis objetivos, de modo que busco oportunidades que me permitan hacerlo. 
+📚 Aprendiendo Python.
+⚡ Dato curioso: entreno Jiu Jitsu y me gusta mucho leer novelas.
 
 </div>
 
@@ -30,28 +25,27 @@ Actualmente, me encuentro trabajando en mi portfolio y terminando otros proyecto
 <h2> 📌 Mis proyectos </h2>
 
 ### Athenas Club App
+App administrativa para un club deportivo.
 
-Proyecto grupal integrador para poner en practica todas las habilidades adquiridas en el bootcamp Henry. Creación de una Single Page Application usando metodologías ágiles de desarrollo de software (SCRUM) con sprints de una semana.
-
-La aplicación puede:
-- Hacer Log In, Log Out y Sign Up por medio de Auth0 y, a su vez, por medio de Google.
-- Mostrar una tienda en línea de productos deportivos.
-- En la tienda se pueden añadir productos al carrito y a favoritos.
-- Los productos se pueden comprar por medio de Mercado Pago.
-- En el panel de perfil de la aplicación el usuario común puede ver sus datos personales y editarlos, así como el historial de las compras realizadas, junto al detalle de cada producto y la disponibilidad.
-- El usuario administrador puede ver todos los usuarios registrados, editar sus datos o eliminarlos de la base de datos. Puede hacer lo mismo con los productos de la tienda.
+<!-- <img src="./Image/PF.png" alt="Image not found" width="350" height="300">
+<img src="./Image/PFtienda.png" alt="Image not found" width="350" height="300"> -->
 
 <a href="https://github.com/MATarg81/proyecto-final">
       <img align="center" src="https://user-images.githubusercontent.com/76783198/183681387-b4432771-313b-4527-a157-75786233b3b0.svg" width="25" height="25"/>
       Link a repo
 </a>
+<br>
+<a href="https://proyecto-final-one-murex.vercel.app/">
+      <img align="center" src="https://user-images.githubusercontent.com/76783198/183681387-b4432771-313b-4527-a157-75786233b3b0.svg" width="25" height="25"/>
+      Link deploy
+</a>
 
 
 ### Henry Food
-Creación de Single Page Applications con React en front end, Express en back y PostgreSQL + Sequelize en base de datos.
+App de recetas que incluye: búsquedas por nombre e ID, filtrados, ordenamientos y creación de nuevas recetas. Llamada a API REST y base de datos propia, homogeneización de datos y presentación.
 
-- Diseñar y desarrollar una App de recetas que incluía: búsquedas por nombre e ID, filtrados, ordenamientos y creación de nuevas recetas. Llamada a API REST y base de datos propia, homogeneización de datos y presentación.
-- Desarrollar la app usando para el Front React, Redux, CSS puro y Back desarrollado en Node.js con Express. Base de datos en PostgreSQL y Sequelize.
+<!-- <img src="./Image/PIlanding.png" alt="Image not found" width="350" height="300">
+<img src="./Image/PIhome.png" alt="Image not found" width="350" height="300"> -->
 
 <a href="https://github.com/Macrofago096/Proyecto-Individual-Food">
       <img align="center" src="https://user-images.githubusercontent.com/76783198/183681387-b4432771-313b-4527-a157-75786233b3b0.svg" width="25" height="25"/>
