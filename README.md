@@ -27,8 +27,8 @@ Mi objetivo principal es desarrollarme profesionalmente y cumplir con mis objeti
 ### Athenas Club App
 App administrativa para un club deportivo.
 
-<!-- <img src="./Image/PF.png" alt="Image not found" width="350" height="300">
-<img src="./Image/PFtienda.png" alt="Image not found" width="350" height="300"> -->
+<img src="./Image/PF.png" alt="Image not found" width="350" height="300">
+<img src="./Image/PFtienda.png" alt="Image not found" width="350" height="300">
 
 <a href="https://github.com/MATarg81/proyecto-final">
       <img align="center" src="https://user-images.githubusercontent.com/76783198/183681387-b4432771-313b-4527-a157-75786233b3b0.svg" width="25" height="25"/>
